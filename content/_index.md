@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Neural Engineering 
+        in Epilepsy Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Our lab is dedicated to developing better technology to help understand and control epilepsy. Dr. Stacey is a clinical epileptologist and spends the majority of his time doing neural engineering research. The lab uses a combination of electrophysiology, machine learning, signal processing, and computational modeling to model and describe neural data. Data for these projects are acquired from a large database of human patients, an ongoing clinical study in patients undergoing surgical implantation of electrodes, and several outside collaborations in other models. The lab is specifically researching the relationship of high frequency oscillations with seizure mechanisms, developing methods to target and stimulate the brain to stop seizures, and methods to quantify seizure dynamics.
   
   - block: collection
     content:
