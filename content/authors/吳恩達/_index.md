@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Neurology
+role: Professor of Neurology                
       Professor of Biomedical Engineering
 
 
