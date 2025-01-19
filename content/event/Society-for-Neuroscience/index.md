@@ -1,15 +1,15 @@
 ---
-title: Example Event
+title: Society for Neuroscience Annual Meeting 2024
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Society for Neuroscience Annual Meeting 2024
+event_url: https://www.sfn.org/meetings/neuroscience-2024
 
-location: Wowchemy HQ
+location: McCormick Place Convention Center
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 2301 S Martin Luther King Dr
+  city: Chicago
+  region: IL
+  postcode: '60616'
   country: United States
 
 summary: An example event.
