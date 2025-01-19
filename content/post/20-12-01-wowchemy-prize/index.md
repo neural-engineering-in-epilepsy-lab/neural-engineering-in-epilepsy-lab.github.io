@@ -1,6 +1,6 @@
 ---
 title: Congragulations to Jack Lin on his succesful Neuroscience Dissertation Defense!
-date: 2020-12-01
+date: 2025-01-17
 ---
 
 Congratulations to Jack on his defense, - Complex patterns of neural signals: From modeling of neuronal networks to data-driven analysis of epileptic high frequency oscillations.
