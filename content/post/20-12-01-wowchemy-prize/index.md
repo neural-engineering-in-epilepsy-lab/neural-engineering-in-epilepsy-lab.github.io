@@ -7,7 +7,7 @@ Congratulations to Jack on his defense: Complex patterns of neural signals: From
 
 <!--more-->
 
-Presented by NGP Student Jack Lin as part of his Dissertation Defense.
+Presented by NGP Student Jack Lin as part of his Dissertation Defense:
 
 The brains extraordinary complexity, characterized by intricate networks and dynamic processes, presents significant challenges in unraveling its underlying mechanisms. Addressing these complexities naturally gives way to the integration of computational neuroscience, which serves as a vital bridge between theoretical models and empirical data to enhance our understanding of neural function and dysfunction. Here, we employ both model-driven and data-driven approaches, integrating techniques taken from multiple disciplines including physics, statistics, data science and engineering to investigate fundamental and clinical aspects of neural dynamics, offering insights into neurological phenomena and disorders.
 
