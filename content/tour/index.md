@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Temporal and spatial properties of High Frequency Oscillations
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
+      - title: Dynamical Modeling and analysis to characterize seizure dynamics
         content: 'Just opened last month!'
         align: right
         background:
