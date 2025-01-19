@@ -29,7 +29,7 @@ bio: I received both my medical degree and PhD in Biomedical Engineering from Ca
 interests:
   - EEG
   - Epilepsy
-  - intraoperative monitoring programs
+  - Intraoperative monitoring programs
   - Developing a research program focused on understanding mechanisms underlying the basic physiological generators of epileptic seizures and translating this work into novel device therapies to stop seizures
 
 education:
