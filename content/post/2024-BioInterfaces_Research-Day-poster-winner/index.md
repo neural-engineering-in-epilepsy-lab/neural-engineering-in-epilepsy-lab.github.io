@@ -1,6 +1,6 @@
 ---
 title: Ashley and Christina/Zion win poster awards at BioInterfaces Research Day
-date: 2020-12-02
+date: 2024-09-24
 image:
   focal_point: 'top'
 ---
