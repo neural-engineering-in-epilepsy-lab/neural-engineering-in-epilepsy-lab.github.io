@@ -10,7 +10,7 @@ last_name: Karosas
 superuser: true
 
 # Role/position
-role: Post Doc
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,19 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently focused on modeling recruitment of non-epileptogenic brain regions during a seizure. 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational modeling of seizure dynamics
+  - Computational analysis of seizure risk
+
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.S. in Artificial Intelligence
+      institution: University of Rochester
+      year: 2024
+    
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
