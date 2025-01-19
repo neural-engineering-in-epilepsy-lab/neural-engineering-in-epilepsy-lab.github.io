@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jack Lin
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Jack
+last_name: Lin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post Doc
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Michigan
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
