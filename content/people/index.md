@@ -17,6 +17,8 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - Faculty
+          - Affiliate Faculty
       sort_by: Params.last_name
       sort_ascending: true
     design:
