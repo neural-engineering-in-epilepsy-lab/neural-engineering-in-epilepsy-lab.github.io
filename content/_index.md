@@ -58,7 +58,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Representative Publication
       text: ""
       count: 5
       filters:
