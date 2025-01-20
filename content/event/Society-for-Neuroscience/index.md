@@ -18,27 +18,27 @@ abstract: Dianna, Grant, Ashley, Jack, and Nina all presented posters at the Soc
 
 # # Talk start and end times.
 # #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2030-06-01T13:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
-# all_day: false
+ date: '2024-11-015T13:00:00Z'
+ date_end: '2024-11-19T15:00:00Z'
+ all_day: false
 
 # # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-11-19T00:00:00Z'
 
-# authors: []
-# tags: []
+authors: []
+tags: []
 
 # # Is this a featured talk? (true/false)
-# featured: false
+featured: false
 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#   focal_point: Right
+image:
+  caption: ''
+  focal_point: Right
 
-# url_code: ''
-# url_pdf: ''
-# url_slides: ''
-# url_video: ''
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # # Markdown Slides (optional).
 # #   Associate this talk with Markdown slides.
