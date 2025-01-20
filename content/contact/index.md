@@ -40,7 +40,7 @@ sections:
       form:
         provider: netlify
           captcha: false
-          recipient_email: wstacey@umich.edu
+          #recipient_email: wstacey@umich.edu
           formspree:
           id:
         netlify:
