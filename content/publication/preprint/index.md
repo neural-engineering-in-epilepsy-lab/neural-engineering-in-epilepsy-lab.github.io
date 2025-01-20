@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "A taxonomy of seizure dynamotypes"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2020-07-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Seizures are a disruption of normal brain activity present across a vast range of species and conditions. We introduce an organizing principle that leads to the first objective Taxonomy of Seizure Dynamics (TSD) based on bifurcation theory. The ‘dynamotype’ of a seizure is the dynamic composition that defines its observable characteristics, including how it starts, evolves and ends. Analyzing over 2000 focal-onset seizures from multiple centers, we find evidence of all 16 dynamotypes predicted in TSD. We demonstrate that patients’ dynamotypes evolve during their lifetime and display complex but systematic variations including hierarchy (certain types are more common), non-bijectivity (a patient may display multiple types) and pairing preference (multiple types may occur during one seizure). TSD provides a way to stratify patients in complement to present clinical classifications, a language to describe the most critical features of seizure dynamics, and a framework to guide future research focused on dynamical properties.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -28,15 +28,15 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+  url: 
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
