@@ -36,15 +36,15 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     
-      # Email form provider
-      form:
-        provider: netlify
-          captcha: false
-          #recipient_email: wstacey@umich.edu
-          formspree:
-          id:
-        netlify:
-          #Enable CAPTCHA challenge to reduce spam?
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #     captcha: false
+      #     #recipient_email: wstacey@umich.edu
+      #     formspree:
+      #     id:
+      #   netlify:
+      #     #Enable CAPTCHA challenge to reduce spam?
     design:
       columns: '1'
 
