@@ -40,11 +40,11 @@ sections:
       form:
         provider: netlify
           captcha: false
-          recipient_email: wstacey@umich.edu
+          #recipient_email: wstacey@umich.edu
           formspree:
           id:
-        #netlify:
-          # Enable CAPTCHA challenge to reduce spam?
+        netlify:
+          Enable CAPTCHA challenge to reduce spam?
     design:
       columns: '1'
 
