@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: hfo_background.jpg
             filters:
               brightness: 0.7
           position: right
@@ -34,7 +34,7 @@ sections:
         align: right
         background:
           image:
-            filename: contact.jpg
+            filename: dynampype+baclr.jpg
             filters:
               brightness: 0.5
           position: center
