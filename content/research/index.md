@@ -15,7 +15,7 @@ sections:
           image:
             filename: coders.jpg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: right
           color: '#666'
       - title: Temporal and spatial properties of High Frequency Oscillations
@@ -25,7 +25,7 @@ sections:
           image:
             filename: hfo_background.jpg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: right
           color: '#000'
       - title: Dynamical modeling and analysis to characterize seizure dynamics
@@ -36,7 +36,7 @@ sections:
           image:
             filename: dynampype+baclr.jpg
             filters:
-              brightness: 0.5
+              brightness: 1
           position: center
           color: '#333'
         link:
