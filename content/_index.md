@@ -11,7 +11,7 @@ sections:
         Neural Engineering 
         in Epilepsy Lab
       image:
-        filename: welcome.jpg
+        filename: pizza.jpg
       text: |
         <br>
         
