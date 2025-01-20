@@ -18,7 +18,7 @@ abstract: Dianna, Grant, Ashley, Jack, and Nina all presented posters at the Soc
 
 # # Talk start and end times.
 # #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-015T13:00:00Z'
+date: '2024-11-15T13:00:00Z'
 date_end: '2024-11-19T15:00:00Z'
 all_day: false
 
