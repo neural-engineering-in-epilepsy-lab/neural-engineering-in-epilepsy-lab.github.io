@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: Temporal and spatial properties of High Frequency Oscillations
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        content: We are investigating the differences between pathological and non-pathological high-frequency oscillations (HFOs), as well as the distinction between signals with HFOs and those without. Pathological HFOs are associated with epileptic hyperexcitability, while non-pathological HFOs are linked to normal brain functions like memory consolidation. Understanding these differences is critical for identifying epileptogenic tissue, improving epilepsy diagnostics, and distinguishing seizure-related activity from normal neural processes.
         align: left
         background:
           image:
