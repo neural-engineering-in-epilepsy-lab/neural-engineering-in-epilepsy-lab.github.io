@@ -44,7 +44,7 @@ sections:
           formspree:
           id:
         netlify:
-          Enable CAPTCHA challenge to reduce spam?
+          #Enable CAPTCHA challenge to reduce spam?
     design:
       columns: '1'
 
