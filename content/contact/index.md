@@ -41,8 +41,8 @@ sections:
         provider: netlify
           captcha: false
           recipient_email: wstacey@umich.edu
-          #formspree:
-          #id:
+          formspree:
+          id:
         #netlify:
           # Enable CAPTCHA challenge to reduce spam?
     design:
