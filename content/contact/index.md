@@ -56,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: funny_template.jpg
+          filename: corona.jpg
           filters:
             brightness: 1
           parallax: false
